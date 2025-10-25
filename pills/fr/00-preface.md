@@ -7,4 +7,8 @@ Comme les Nix Pills sont considérées comme une introduction classique à Nix, 
 Pour une version à jour, veuillez visiter <https://nixos.org/guides/nix-pills/>. Une [version EPUB](https://nixos.org/guides/nix-pills/nix-pills.epub) est également disponible.
 
 
+## First pill...
+
+... [Pourquoi vous devriez l'essayer ?](01-why-you-should-give-it-a-try.md)
+
 

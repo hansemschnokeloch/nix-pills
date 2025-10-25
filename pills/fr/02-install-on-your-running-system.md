@@ -153,4 +153,4 @@ J'espère n'avoir rien laissé dans l'ombre qui pourrait vous faire croire qu'il
 
 ## Next pill...
 
-...nous allons entrer dans l'environnement Nix et apprendrons à interagir avec le _store_.
+...[Entrer dans l'environment](03-enter-environment.md) nous allons entrer dans l'environnement Nix et apprendrons à interagir avec le _store_.

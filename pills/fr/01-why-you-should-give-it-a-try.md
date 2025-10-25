@@ -95,4 +95,4 @@ Considérant que [Nixpkgs](https://nixos.org/nixpkgs/) ([lien github](https://gi
 
 ## Next pill...
 
-...nous allons installer Nix par-dessus votre système actuel (que je suppose être GNU/Linux, mais nous avons aussi des utilisateurs OSX) et commencer à inspecter les logiciels installés.
+...[L'installer sur votre système](02-install-on-your-running-system.md) nous allons installer Nix par-dessus votre système actuel (que je suppose être GNU/Linux, mais nous avons aussi des utilisateurs OSX) et commencer à inspecter les logiciels installés.
